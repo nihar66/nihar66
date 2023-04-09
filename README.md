@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nihar66
-- 👀 I’m interested in cloud computing and data analysis
-- 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on some interesting data projects
+- 👀 I’m interested in cloud computing and frontent
+- 🌱 I’m currently learning cloud
+- 💞️ I’m looking to collaborate on some interesting frontend projects
 - 📫 How to reach me nnihar66@gmail.com
 
 <!---
