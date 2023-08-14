@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nihar66
-- 👀 I’m interested in frontent development.
+- 👀 I’m interested in salesforce and  frontent development.
 - 💞️ I’m looking to collaborate on some interesting frontend projects
 - 📫 How to reach me nnihar66@gmail.com
 
