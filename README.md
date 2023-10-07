@@ -12,9 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nihar66&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUqpjifH7WiYi7rTW_K2u53VfJ-UAXs-luzQ&usqp=CAU"  />
+##
 
 ###
 
@@ -56,7 +54,7 @@
 
 ###
 
-<p align="left">"Crafting Digital Experiences, One Line of Code at a Time"</p>
+<p align="center">"Crafting Digital Experiences, One Line of Code at a Time"</p>
 
 ###
 
