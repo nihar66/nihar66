@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Niharika
-- 👀 I’m interested in salesforce and  frontent development.
+- 👀 I’m interested in  frontent development.
 - 💞️ I’m looking to collaborate on some interesting frontend projects
 - 📫 How to reach me nnihar66@gmail.com
 
-
+<h2 align="left">Hi there! I'm Niharika, a dedicated budding frontend developer on a journey to make the web a more beautiful and user-friendly place. My passion for creating visually appealing and intuitive user interfaces drives me to continuously explore the ever-evolving world of web development.</h2>
 
 ###
 
@@ -51,12 +51,16 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/nihar66/nihar66/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nihar66&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nihar66&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -66,11 +70,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+<p align="left">"Crafting Digital Experiences, One Line of Code at a Time"</p>
 
 ###
 
-
-###
