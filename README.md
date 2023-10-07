@@ -52,9 +52,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nihar66/count.svg?"  />
-</div>
+
 
 ###
 
