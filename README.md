@@ -5,7 +5,7 @@
 
 <h2 align="left">Hi there! I'm Niharika, a dedicated budding frontend developer on a journey to make the web a more beautiful and user-friendly place. My passion for creating visually appealing and intuitive user interfaces drives me to continuously explore the ever-evolving world of web development.</h2>
 
-###
+
 
 <div align="center">
   
@@ -54,7 +54,7 @@
 
 ###
 
-<p align="center">"Crafting Digital Experiences, One Line of Code at a Time"</p>
+<p align="center">"<span>Crafting Digital Experiences, One Line of Code at a Time"</span></span></p>
 
 ###
 
